@@ -40,6 +40,11 @@
                         <Insets top="20.0" />
                      </VBox.margin>
                   </Button>
+                  <Button fx:id="clear" mnemonicParsing="false" onAction="#clear" prefHeight="25.0" prefWidth="147.0" text="Сброс">
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                  </Button>
                </children>
                <opaqueInsets>
                   <Insets />
